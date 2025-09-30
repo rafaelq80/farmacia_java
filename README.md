@@ -8,12 +8,12 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/farmacia_java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/farmacia_java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/farmacia_java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/farmacia_java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/farmacia_java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/farmacia_java_t83?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/rafaelq80/farmacia_java?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/rafaelq80/farmacia_java?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/rafaelq80/farmacia_java?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/rafaelq80/farmacia_java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/rafaelq80/farmacia_java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/rafaelq80/farmacia_java?style=flat-square" />
   <img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
 
 
@@ -134,7 +134,7 @@ Para executar os códigos localmente, você precisará de:
 1. Clone o repositório do Projeto [Farmácia](https://github.com/rafaelq80/farmacia_java_t83) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
-git clone https://github.com/rafaelq80/farmacia_java_t83.git
+git clone https://github.com/rafaelq80/farmacia_java.git
 ```
 
 2. **Abra o Eclipse/STS** e selecione a pasta do *Workspace* onde você clonou o repositório do projeto
